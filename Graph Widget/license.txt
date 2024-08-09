@@ -1,0 +1,28 @@
+Graph Widget is copyright Oden Petersen 2019 (oden.petersen@education.nsw.gov.au)
+
+
+Any holder of a copy of this software and its source code is entitled to use,
+copy, and distribute it, modified or verbatim, subject to the following terms:
+
+a) This license document ("license.txt") is maintained in its entirety, but;
+
+b) A brief addendum is made to this document ("license.txt") below (not at) line 25 of the file ("Addenda:") detailing any modifications made to the program, and stating clearly that they are modifications;
+c) This addendum is labelled clearly with a contact address for the person or organisation making said modifications;
+d) Any further restrictions on the use of the modified program are detailed
+ in said addendum.
+
+
+
+For more information, please contact the relevant copyright holder.
+
+
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+Addenda:
